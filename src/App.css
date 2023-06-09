@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.display_img img {
+  border: 3px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+}
+
+.display_img {
+  width: 30%;
+  margin: auto;
+}
+
+.display_btn button {
+  padding: 3px;
+  width: 100px;
+  margin: 10px;
+}
+
+.btn_contant {
+  width: 30%;
+  margin: auto;
+}
+
+.left {
+  display: flex;
+  justify-content: space-around;
+}
+
+.select_img {
+  border: 3px solid red !important;
+}
